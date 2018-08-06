@@ -31,15 +31,15 @@ SSIを拡張するため、クラウドアプリケーションのAPIを使用�
 
 手順|作業内容
 ----|----
-定義の作成 > 検証 > 下書きとして保存 | Before you publish a cloud app definition, you can save it as a draft and publish it later.
-定義の作成 > 検証 > アクティブ化 | An activated definition can be used to create a private cloud app instance.
-定義の更新 > 検証 > 下書きとして保存 | You might want to save an updated version as a draft that you can test.
+定義の作成 > 検証 > 下書きとして保存 | クラウドアプリケーション定義の公開前に、下書きとして保存し、後で公開できます。
+定義の作成 > 検証 > アクティブ化 | アクティブ化された定義を使用してプライベートクラウドアプリケーションインスタンスを作成できます。
+定義の更新 > 検証 > 下書きとして保存 | 更新済みバージョンをテスト可能なドラフトとして保存できます。
 
 公開フローを使って、作成したクラウドアプリケーション定義やクラウドアプリケーションインスタンスを他者に見えるようにします。
 
 手順|作業内容
 ----|----
-定義の作成 > 検証 > 公開 | This is the most typical workflow for creating a definition. A published cloud app definition is viewable by all users.
-定義の作成 > 検証 > アクティブ化 > インスタンスの作成 > レシピの作成 > 公開 | A published cloud app instance is viewable by all users.
-定義の更新 > 検証 > アクティブ化 > インスタンスの作成 > 公開 | You can update a cloud app instance, but it will affect active recipes.
-定義の更新 > 検証 > アクティブ化 > インスタンスの作成 > 公開 > レシピの作成 | You can update a cloud app definition, but it will affect active recipes.
+定義の作成 > 検証 > 公開 | 定義作成のための最も一般的な作業手順で、公開済みクラウドアプリケーション定義は、全ユーザーが閲覧可能です。
+定義の作成 > 検証 > アクティブ化 > インスタンスの作成 > レシピの作成 > 公開 | 公開済みクラウドアプリケーションインスタンスは、全ユーザーが閲覧できます。
+定義の更新 > 検証 > アクティブ化 > インスタンスの作成 > 公開 | クラウドアプリケーションインスタンスは更新できますが、アクティブなレシピに影響があります。
+定義の更新 > 検証 > アクティブ化 > インスタンスの作成 > 公開 > レシピの作成 | クラウドアプリケーション定義は更新できますが、アクティブなレシピに影響があります。
