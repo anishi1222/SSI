@@ -55,6 +55,7 @@
             ```URL
             https://login2.responsys.net/rest/api/v1.1/auth/token
             ```
+  
     12. **リフレッシュ(Refresh)**を指定することも可能（オプション）。
     13. **クライアント認証にヘッダーではなく本体を使用 (Use body instead of headers for client authentication)**を使い、クライアント認証のためにヘッダではなくメッセージ本体を使うことも可能（オプション）
     14. **Customize access token**を使うと、アクセストークンをカスタマイズ可能（オプション）
