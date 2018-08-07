@@ -27,4 +27,4 @@
 
 8. 過去の実行結果を表示するには、レシピジョブ履歴を表示します。
     
-  > Accessing and Searching the Recipe Job History<br/>https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/accessing-and-searching-recipe-job-history.html
+    > Accessing and Searching the Recipe Job History<br/>https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/accessing-and-searching-recipe-job-history.html
