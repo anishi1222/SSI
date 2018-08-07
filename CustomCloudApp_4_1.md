@@ -56,25 +56,25 @@
             https://login2.responsys.net/rest/api/v1.1/auth/token
             ```
   
-    12. **リフレッシュ(Refresh)**を指定することも可能（オプション）。
-    13. **クライアント認証にヘッダーではなく本体を使用 (Use body instead of headers for client authentication)**を使い、クライアント認証のためにヘッダではなくメッセージ本体を使うことも可能（オプション）
-    14. **Customize access token**を使うと、アクセストークンをカスタマイズ可能（オプション）
+  12. **リフレッシュ(Refresh)**を指定することも可能（オプション）。
+  13. **クライアント認証にヘッダーではなく本体を使用 (Use body instead of headers for client authentication)**を使い、クライアント認証のためにヘッダではなくメッセージ本体を使うことも可能（オプション）
+  14. **Customize access token**を使うと、アクセストークンをカスタマイズ可能（オプション）
         - **トークンパラメータ名** : authorization
         - **場所** : queryもしくはheaders
-    15. 対象タイプ(Include Type)を選択することも可能（オプション）
+  15. 対象タイプ(Include Type)を選択することも可能（オプション）
   
         ![optionalfields](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/img/optionalfields.png)
   
-    16. **API Key**を選択することも可能（オプション）
+  16. **API Key**を選択することも可能（オプション）
         <ol type="a">
         <li>名前を指定</li>
         <li>場所を設定</li>
         <li><b>各ユーザーが値を設定(Each user will provide a value)</b>か、<b>すべてのユーザー用に指定済(Authorize a single Shared Account for all users)</b>を選択</li>
         </ol>
-    17. **クラウドアプリケーションアカウント**を選択
+  17. **クラウドアプリケーションアカウント**を選択
         - **ユーザーが独自のアカウントを作成 (Users create their own accounts)** : デフォルト
         - **すべてのユーザー用に単一の共有アカウントを認可 (Authorize a single Shared Account for all users)**
-    18. ページの最上部までスクロールして **Create（作成）** をクリック
+  18. ページの最上部までスクロールして **Create（作成）** をクリック
 
 構成が完了すると、新しいクラウドアプリケーションインスタンスがクラウドアプリケーションインスタンスに表示され、**アクティブ化**されていることがわかります。何かエラーがある場合は、**下書き**のままです。
 
