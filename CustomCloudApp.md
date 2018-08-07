@@ -30,10 +30,10 @@
 この章では、お好みのクラウドアプリケーションを使ってクラウドアプリケーション定義の基本構造を開発します。
 
 - [基本テンプレートからクラウドアプリケーション定義の作成](CustomCloudApp_3_1.md)
-- [クラウドアプリケーション定義（Trigger）の作成](CustomCloudApp_3_2.md)
-- [クラウドアプリケーション定義（Action）の作成](CustomCloudApp_3_3.md)
-- [クラウドアプリケーション定義（Flow）の作成](CustomCloudApp_3_4.md)
-- [クラウドアプリケーション定義（Schema）の作成](CustomCloudApp_3_5.md)
+- [クラウドアプリケーション定義（トリガー）の作成](CustomCloudApp_3_2.md)
+- [クラウドアプリケーション定義（アクション）の作成](CustomCloudApp_3_3.md)
+- [クラウドアプリケーション定義（フロー）の作成](CustomCloudApp_3_4.md)
+- [クラウドアプリケーション定義（スキーマ）の作成](CustomCloudApp_3_5.md)
 - [クラウドアプリケーション定義の完成](CustomCloudApp_3_6.md)
 - [クラウドアプリケーション定義の検証](CustomCloudApp_3_7.md)
 
