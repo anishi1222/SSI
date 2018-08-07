@@ -4,7 +4,7 @@
 
 1. SSIのランディングページを開きます。
 2. Oracle Cloudログインを使用してSSIにログインします。
-3. クラウドアプリケーションコレクションを参照し、お気に入りのアプリケーションを見つけます。1つまたは複数のクラウドアプリケーションを指定して、検索範囲を絞り込むことができます。
+3. クラウド・アプリケーションコレクションを参照し、お気に入りのアプリケーションを見つけます。1つまたは複数のクラウド・アプリケーションを指定して、検索範囲を絞り込むことができます。
 
     ![dashboardpaasv2](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/img/dashboardpaasv2.png)
     ![browsecloudapps](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/img/browsecloudapps.png)
@@ -26,5 +26,5 @@
     ![activateoff](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/img/activateoff.png)
 
 8. 過去の実行結果を表示するには、レシピジョブ履歴を表示します。
-    
+
     > Accessing and Searching the Recipe Job History<br/>https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/accessing-and-searching-recipe-job-history.html

@@ -1,11 +1,11 @@
-# クラウドアプリケーション定義の完成
+# クラウド・アプリケーション定義の完成
 
-完全なクラウドアプリケーション定義には、トリガー、アクション、スキーマ、およびフローが含まれます。この演習を始めるにあたって部便利なように、以下のコードを使ってクラウドアプリケーション定義の完成版を作成できます。
+完全なクラウド・アプリケーション定義には、トリガー、アクション、スキーマ、およびフローが含まれます。この演習を始めるにあたって部便利なように、以下のコードを使ってクラウド・アプリケーション定義の完成版を作成できます。
 
-1. ダッシュボードでクラウドアプリケーション定義のタブをクリックする。
-2. 編集したいクラウドアプリケーション定義の下書きをクリックする。下書きのクラウドアプリケーション定義がない場合、[基本テンプレートからクラウドアプリケーション定義の作成](CustomCloudApp_3_1.md)の手順に従って新規定義を作成する。
-3. クラウドアプリケーション定義エディタで、クラウドアプリケーション定義の全てのコードを削除する。
-4. 以下のコードをコピー＆ペーストして、トリガー、アクション、スキーマ、フローをクラウドアプリケーション定義に追加する。
+1. ダッシュボードでクラウド・アプリケーション定義のタブをクリックする。
+2. 編集したいクラウド・アプリケーション定義の下書きをクリックする。下書きのクラウド・アプリケーション定義がない場合、[基本テンプレートからクラウド・アプリケーション定義の作成](CustomCloudApp_3_1.md)の手順に従って新規定義を作成する。
+3. クラウド・アプリケーション定義エディタで、クラウド・アプリケーション定義の全てのコードを削除する。
+4. 以下のコードをコピー＆ペーストして、トリガー、アクション、スキーマ、フローをクラウド・アプリケーション定義に追加する。
     ```json
     {
         "description": "HubSpot is a marketing application service that manages contacts and campaigns.",
@@ -493,8 +493,8 @@
         }
     }
     ```
-    クラウドアプリケーション定義のコードを検証し、エラーがでないことを確認する。警告 (warning) が出ることがあるが、これはこのコード例で想定済みのことである
+    クラウド・アプリケーション定義のコードを検証し、エラーがでないことを確認する。警告 (warning) が出ることがあるが、これはこのコード例で想定済みのことである
     検証メッセージを理解するには、[OCDL Lint Checks V2](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/app-definition-lint-check.html)を参照。
-5. クラウドアプリケーション定義を保存する。
+5. クラウド・アプリケーション定義を保存する。
 
-以後では、クラウドアプリケーションインスタンスを作成します。[Creating a Cloud App Instance Using Basic Authentication](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/creating-cloud-app-instance-using-basic-authentication-type.html)をご覧ください。
+以後では、クラウド・アプリケーション・インスタンスを作成します。[Creating a Cloud App Instance Using Basic Authentication](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/creating-cloud-app-instance-using-basic-authentication-type.html)をご覧ください。
