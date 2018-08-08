@@ -15,7 +15,7 @@
 
     これでサマリ情報まで到達します。下図は、Hubspotを使うクラウド・アプリケーション定義の例です。
 
-        ![newdefinition1](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/img/newdefinition1.png)
+      ![newdefinition1](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssiag/img/newdefinition1.png)
 
     この時点で、SSIでは認可テストフロー作成が必要です。認可テストフローはSSIがテスト接続する際のAPIの呼び出しをモデル化します。通常、ログインプロファイル名のようなデータを返す、安全で繰り返しの呼び出しが可能なAPIを選択します。これは空白のままでもかまいません。
 
