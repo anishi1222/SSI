@@ -4,9 +4,7 @@
 
 通常、SSIのエンドユーザーは、クラウド・アプリケーションのWebサイトにログインしたときにできることに関連するイベントに精通しています。特定のクラウド・アプリケーションのトリガーは、エンドユーザーにとって使い慣れたイベントで発生するようにモデル化する必要があり、このためには、サポートしようとしているクラウド・アプリケーションの知識が必要です。この演習では、クラウド・アプリケーションのContacts API（連絡先を操作するAPI）をチェックして、利用可能なものを理解することにします。
 
-> **注意**
->
-> 言語については、[Language Reference for Oracle Self-Service Integration Cloud Service](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssidg/oracle-self-service-integration-connector-definition-language.html)を参照してください。この例は、連絡先の作成のトリガーをモデル化する方法を説明しています。
+!!! **注意**<br/>言語については、[Language Reference for Oracle Self-Service Integration Cloud Service](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ssidg/oracle-self-service-integration-connector-definition-language.html)を参照してください。この例は、連絡先の作成のトリガーをモデル化する方法を説明しています。
 
 1. ダッシュボードでクラウド・アプリケーション定義のタブをクリックする。
 2. 編集したいクラウド・アプリケーション定義をクリックすると、クラウド・アプリケーション定義エディタが開く。
