@@ -1,14 +1,17 @@
 # Oracle Self-Service Integrationでカスタム・クラウド・アプリケーションを作成する
 
-## 目的
-
-このチュートリアルでは、Oracle Self-Service Integrationでカスタム・クラウド・アプリケーションの作成ならびにレシピの作成の流れを辿っていきます。
-
 ## Oracle Self-Service Integrationとは
 
-カスタム・クラウド・アプリケーションを作成してOracle Self-Service Integration (SSI) のレシピで利用する方法を学びます。この多用途に使えるクラウドサービスを利用して、日々の生産性を向上することができます。
+種々のクラウドサービスを連携し、日々の作業を自動化するためのクラウドサービスです。
+Oracleが提供しているコネクタとレシピを使うこともできますし、カスタム・クラウド・アプリケーションを作成し、カスタムのレシピを作成することもできます。
 
-このチュートリアルでは、SSI開発者の作業の流れを示します（SSIのDeveloperロールが必要です）。
+## 目的
+
+このチュートリアルでは、Oracle Self-Service Integrationでカスタム・クラウド・アプリケーションを作成し、レシピで利用する方法を学びます。
+
+このチュートリアルではSSI開発者の作業の流れを辿るため、SSIのDeveloperロールが必要です。
+
+作業の流れは以下の通りです。
 
 定義(Definition) > 検証(Validate) > アクティブ化(Activate) > インスタンスの作成(Create Instance) > レシピの作成(Create Recipe) > 発行(Publish)
 
