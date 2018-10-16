@@ -6,8 +6,6 @@
 2. Oracle Cloudログインを使用してSSIにログインします。
 3. クラウド・アプリケーションコレクションを参照し、お気に入りのアプリケーションを見つけます。1つまたは複数のクラウド・アプリケーションを指定して、検索範囲を絞り込むことができます。
 
-    ![dashboardpaasv2](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/img/dashboardpaasv2.png)
-
     ![browsecloudapps](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/img/browsecloudapps.png)
 
     > Discovering Cloud Apps<br/>https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/ossug/discovering-cloud-apps.html
